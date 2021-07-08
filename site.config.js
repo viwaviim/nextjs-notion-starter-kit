@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: '百家姓系列攻略',
   domain: 'https://www.notion.so/d410f1e47a1847799da05547dd18e7c2',
-  author: '梨子',
+  author: 'pear',
 
   // open graph metadata (optional)
   description: 'Example site description',
